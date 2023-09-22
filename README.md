@@ -1,4 +1,5 @@
-## Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> I am [Akash Kumar Prajapati](https://www.linkedin.com/in/akash-kumar-prajapati/)
+
+# Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> I am [Akash Kumar Prajapati](https://www.linkedin.com/in/akash-kumar-prajapati/)
 ## Full Stack Developer
 <!--
 **akashkumar7313/akashkumar7313** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
