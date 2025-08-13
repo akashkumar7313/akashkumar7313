@@ -3,7 +3,7 @@
 
 <h1 align="center">
   <img 
-    src="https://readme-typing-svg.demolab.com?font=Poppins&weight=800&size=30&duration=1800&pause=900&deleteSpeed=60&color=F7B733&center=true&vCenter=true&repeat=true&width=900&lines=Hi%20There%20%F0%9F%91%8B%2C%20I%27m%20Akash%20Kumar%20Prajapati;" 
+    src="https://readme-typing-svg.demolab.com?font=Poppins&weight=800&size=30&duration=1800&pause=900&deleteSpeed=60&color=F7B733&center=true&vCenter=true&repeat=false&width=900&lines=Hi%20There%20%F0%9F%91%8B%2C%20I%27m%20Akash%20Kumar%20Prajapati;" 
     alt="Typing Animation"
   />
 </h1>
