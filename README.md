@@ -3,7 +3,14 @@
 
 <h1 align="center">
   <img 
-    src="https://readme-typing-svg.demolab.com?font=Poppins&weight=800&size=30&duration=1800&pause=900&deleteSpeed=60&color=F7B733&center=true&vCenter=true&repeat=true&width=900&lines=Hi%20There%20%F0%9F%91%8B%2C%20I%27m%20Akash%20Kumar%20Prajapati;%F0%9F%9A%80%20React%20Native%20%26%20Flutter%20Developer;%F0%9F%92%A1%20Problem%20Solver%20%26%20Tech%20Enthusiast;%F0%9F%8C%9F%20Turning%20Ideas%20Into%20Beautiful%20Apps" 
+    src="https://readme-typing-svg.demolab.com?font=Poppins&weight=800&size=30&duration=1800&pause=900&deleteSpeed=60&color=F7B733&center=true&vCenter=true&repeat=true&width=900&lines=Hi%20There%20%F0%9F%91%8B%2C%20I%27m%20Akash%20Kumar%20Prajapati;" 
+    alt="Typing Animation"
+  />
+</h1>
+
+<h1 align="center">
+  <img 
+    src="https://readme-typing-svg.demolab.com?font=Poppins&weight=800&size=30&duration=1800&pause=900&deleteSpeed=60&color=F7B733&center=true&vCenter=true&repeat=true&width=900&lines=F0%9F%9A%80%20React%20Native%20%26%20Flutter%20Developer;%F0%9F%92%A1%20Problem%20Solver%20%26%20Tech%20Enthusiast;%F0%9F%8C%9F%20Turning%20Ideas%20Into%20Beautiful%20Apps" 
     alt="Typing Animation"
   />
 </h1>
