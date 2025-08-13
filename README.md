@@ -2,7 +2,7 @@
 <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" />
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Hi+There+👋,+I'm+Akash+Kumar+Prajapati;React+Native+%26+Flutter+Developer;Problem+Solver+%26+Tech+Enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=2000&pause=500&color=36BCF7&center=true&vCenter=true&multiline=true&width=800&lines=Hi+There+👋,+I'm+Akash+Kumar+Prajapati;🚀+React+Native+%26+Flutter+Developer;💡+Problem+Solver+%26+Tech+Enthusiast;🌟+Turning+Ideas+Into+Beautiful+Apps" alt="Typing SVG" />
 </h1>
 
 ---
@@ -23,15 +23,17 @@ I’m a passionate **Mobile App Developer** with expertise in **React Native** a
 
 <p align="center">
   <!-- Mobile -->
-  <img src="https://skillicons.dev/icons?i=flutter,react" height="40" />
+  <img src="https://skillicons.dev/icons?i=flutter,react" height="50" title="Flutter & React Native" />
   <!-- Frontend -->
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts" height="40" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts" height="50" title="Frontend Development" />
   <!-- Backend -->
-  <img src="https://skillicons.dev/icons?i=nodejs,express" height="40" />
-  <!-- Database -->
-  <img src="https://skillicons.dev/icons?i=firebase,mongodb" height="40" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express" height="50" title="Node.js & Express.js" />
+  <!-- Databases -->
+  <img src="https://skillicons.dev/icons?i=firebase,mongodb,mysql" height="50" title="Databases" />
+  <!-- State Management -->
+  <img src="https://img.shields.io/badge/State%20Management-GetX%2C%20Redux%2C%20Provider-blue?style=for-the-badge" height="28" />
   <!-- Tools -->
-  <img src="https://skillicons.dev/icons?i=git,github,postman" height="40" />
+  <img src="https://skillicons.dev/icons?i=git,github,postman,vscode,androidstudio" height="50" title="Developer Tools" />
 </p>
 
 ---
