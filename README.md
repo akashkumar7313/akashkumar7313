@@ -1,20 +1,21 @@
 <!-- Banner GIF -->
 <!--  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExYTJsMWcxZ3h6aHhtMXo2ZHl2a3dianBweWpvc2JnaGFzM3puaDlsayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkIWwpVYr/giphy.gif" width="100%" />-->
 
+<!-- First Animation - Introduction -->
 <h1 align="center">
   <img 
-    src="https://readme-typing-svg.demolab.com?font=Poppins&weight=800&size=30&duration=1800&pause=900&deleteSpeed=60&color=F7B733&center=true&vCenter=true&repeat=false&width=900&lines=Hi%20There%20%F0%9F%91%8B%2C%20I%27m%20Akash%20Kumar%20Prajapati;" 
+    src="https://readme-typing-svg.demolab.com?font=Poppins&weight=800&size=34&duration=2500&pause=1500&color=F7B733%2CFF4E1E%2CF7B733&center=true&vCenter=true&repeat=false&width=900&lines=Hi%20There%20%F0%9F%91%8B%2C%20I'm%20Akash%20Kumar%20Prajapati" 
     alt="Typing Animation"
   />
 </h1>
 
+<!-- Second Animation - Skills -->
 <h1 align="center">
   <img 
-    src="https://readme-typing-svg.demolab.com?font=Poppins&weight=800&size=30&duration=1800&pause=900&deleteSpeed=60&color=F7B733&center=true&vCenter=true&repeat=true&width=900&lines=%F0%9F%9A%80%20React%20Native%20%26%20Flutter%20Developer;%F0%9F%92%A1%20Problem%20Solver%20%26%20Tech%20Enthusiast;%F0%9F%8C%9F%20Turning%20Ideas%20Into%20Beautiful%20Apps" 
+    src="https://readme-typing-svg.demolab.com?font=Poppins&weight=800&size=30&duration=1600&pause=800&deleteSpeed=50&color=36BCF7%2CFE4E1E%2CF7B733&center=true&vCenter=true&repeat=true&width=900&lines=%F0%9F%9A%80%20React%20Native%20%26%20Flutter%20Developer;%F0%9F%92%A1%20Problem%20Solver%20%26%20Tech%20Enthusiast;%F0%9F%8C%9F%20Turning%20Ideas%20Into%20Beautiful%20Apps" 
     alt="Typing Animation"
   />
 </h1>
-
 
 ---
 
