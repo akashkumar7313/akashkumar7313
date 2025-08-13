@@ -5,17 +5,21 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=2000&pause=500&color=36BCF7&center=true&vCenter=true&multiline=true&width=800&lines=Hi+There+👋,+I'm+Akash+Kumar+Prajapati;🚀+React+Native+%26+Flutter+Developer;💡+Problem+Solver+%26+Tech+Enthusiast;🌟+Turning+Ideas+Into+Beautiful+Apps" alt="Typing SVG" />
 </h1>
 
+<h1 align="center">👋 Hey there, I'm <span style="color:#4CAF50">Akash Kumar Prajapati</span></h1>
+<h3 align="center">🚀 React Native & Flutter Developer | Problem Solver | Tech Enthusiast</h3>
+
 ---
 
-## 🚀 About Me
-I’m a passionate **Mobile App Developer** with expertise in **React Native** and **Flutter**, crafting smooth, high-performance apps that deliver an amazing user experience.
+## 💫 About Me  
 
-✨ **What I Do**
-- Transform complex ideas into simple, beautiful mobile apps  
-- Solve problems with a mix of creativity and logic  
-- Collaborate effectively to deliver high-quality projects  
+I create **seamless, high-performance mobile applications** that transform ideas into reality.  
+Specializing in **React Native** and **Flutter**, I craft **intuitive, user-focused** experiences that not only work flawlessly but also feel amazing.  
 
-💡 *"Clean code is not just writing less code, it’s writing code that makes sense."*
+💡 **What I bring to the table**  
+- 🧠 **Problem Solver:** I thrive on tackling challenges head-on  
+- 🎨 **Design Sense:** I value clean, modern, and accessible design  
+- 🔄 **Scalability:** I build apps with growth in mind  
+- 💬 **Collaboration:** I communicate effectively in team environments  
 
 ---
 
