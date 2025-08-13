@@ -3,11 +3,10 @@
 
 <h1 align="center">
   <img 
-    src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=28&duration=2000&pause=1000&color=36BCF7&center=true&vCenter=true&width=900&lines=Hi+There+👋;I'm+Akash+Kumar+Prajapati;🚀+React+Native+%26+Flutter+Developer;💡+Problem+Solver+%26+Tech+Enthusiast;🌟+Turning+Ideas+Into+Beautiful+Apps" 
+    src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=28&duration=2000&pause=1000&color=F7B733&center=true&vCenter=true&repeat=true&width=900&lines=Hi+There+👋;I'm+Akash+Kumar+Prajapati;🚀+React+Native+%26+Flutter+Developer;💡+Problem+Solver+%26+Tech+Enthusiast;🌟+Turning+Ideas+Into+Beautiful+Apps" 
     alt="Typing Animation" 
   />
 </h1>
-
 
 ---
 
