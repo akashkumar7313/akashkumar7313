@@ -2,12 +2,11 @@
 <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExYTJsMWcxZ3h6aHhtMXo2ZHl2a3dianBweWpvc2JnaGFzM3puaDlsayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkIWwpVYr/giphy.gif" width="100%" />
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=2000&pause=500&color=36BCF7&center=true&vCenter=true&width=800&lines=Hi%20There%20%F0%9F%91%8B%2C%20I'm%20Akash%20Kumar%20Prajapati;%F0%9F%9A%80%20React%20Native%20%26%20Flutter%20Developer;%F0%9F%92%A1%20Problem%20Solver%20%26%20Tech%20Enthusiast;%F0%9F%8C%9F%20Turning%20Ideas%20Into%20Beautiful%20Apps" alt="Typing Animation" />
+  <img 
+    src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=28&duration=2000&pause=500&color=F7B733%2CFE4E1E%2C36BCF7&center=true&vCenter=true&width=900&lines=Hi%20There%20%F0%9F%91%8B%2C%20I'm%20Akash%20Kumar%20Prajapati;%F0%9F%9A%80%20React%20Native%20%26%20Flutter%20Developer;%F0%9F%92%A1%20Problem%20Solver%20%26%20Tech%20Enthusiast;%F0%9F%8C%9F%20Turning%20Ideas%20Into%20Beautiful%20Apps" 
+    alt="Typing Animation" 
+  />
 </h1>
-
-
-<h1 align="center">👋 Hey there, I'm <span style="color:#4CAF50">Akash Kumar Prajapati</span></h1>
-<h3 align="center">🚀 React Native & Flutter Developer | Problem Solver | Tech Enthusiast</h3>
 
 ---
 
