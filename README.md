@@ -2,7 +2,7 @@
 <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExYTJsMWcxZ3h6aHhtMXo2ZHl2a3dianBweWpvc2JnaGFzM3puaDlsayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkIWwpVYr/giphy.gif" width="100%" />
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=2000&pause=500&color=36BCF7&center=true&vCenter=true&multiline=true&width=800&lines=Hi+There+👋,+I'm+Akash+Kumar+Prajapati;🚀+React+Native+%26+Flutter+Developer;💡+Problem+Solver+%26+Tech+Enthusiast;🌟+Turning+Ideas+Into+Beautiful+Apps" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=2000&pause=500&color=36BCF7&center=true&vCenter=true&width=800&lines=Hi+There+👋,+I'm+Akash+Kumar+Prajapati;🚀+React+Native+%26+Flutter+Developer;💡+Problem+Solver+%26+Tech+Enthusiast;🌟+Turning+Ideas+Into+Beautiful+Apps" alt="Typing Animation" />
 </h1>
 
 <h1 align="center">👋 Hey there, I'm <span style="color:#4CAF50">Akash Kumar Prajapati</span></h1>
